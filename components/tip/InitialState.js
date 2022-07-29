@@ -19,6 +19,8 @@ const InitialState = ({
   return (
 
     <Box maxWidth='1000px' margin='auto' p='4'>
+       
+
       <Flex flexWrap='wrap' w='420px' p='5' paddingTop='0px' justifyContent='flex-start' cursor='pointer' >
           <Box> <form>
           <FormLabel> Wallet Address  </FormLabel>

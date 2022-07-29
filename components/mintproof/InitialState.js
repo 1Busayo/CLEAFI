@@ -26,6 +26,21 @@ const InitialState = ({
  return (
 
 <Box maxWidth='1000px' margin='auto' p='4'>
+<Flex
+        // onClick={() => setSearchFilters(!searchFilters)}
+        cursor='pointer'
+        bg='gray.100'
+        borderBottom='1px'
+        borderColor='gray.200'
+        p='2'
+        fontWeight='black'
+        fontSize='lg'
+        justifyContent='center'
+        alignItems='center'
+      >
+        <Text>Convert Recycling into an NFT</Text>
+       
+      </Flex>
   <Flex flexWrap='wrap' w='420px' p='5' paddingTop='0px' justifyContent='flex-start' cursor='pointer' >
       <Box> <form>
       <FormLabel> Wallet Address  </FormLabel>

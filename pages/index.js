@@ -117,8 +117,8 @@ const noUserFound = (
       buttonText2='Connect Wallet'
       func = {connectToWallet}
       linkName='/search?purpose=for-rent'
-      imageUrl='https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4'
-    />
+      imageUrl='https://thumbs.dreamstime.com/b/lower-co-emissions-to-limit-global-warming-climate-change-concept-manager-hand-turning-knob-to-reduce-levels-co-lower-219963543.jpg'
+      />
   
 
 
